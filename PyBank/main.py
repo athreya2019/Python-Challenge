@@ -5,7 +5,7 @@ import csv
 
 # Objective 2: Set the path for the CSV file in PyBankcsv
 
-PyBankcsv = os.path.join("Python-Challenge","Resources","budget_data.csv")
+PyBankcsv = os.path.join("Resources","budget_data.csv")
 
 # Objective 3: Create the lists to store data. 
 
